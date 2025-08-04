@@ -75,7 +75,7 @@ Exemplo de uso:
 SELECT BuscaIngredientesProduto(10);
 ```
 
-### 6. Criação da função mediaPedido
+### 6. Criação da função `mediaPedido`
 Compara o valor total de um pedido com a média de todos os pedidos e retorna uma mensagem descritiva:
 ```
 DELIMITER //
