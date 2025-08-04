@@ -31,7 +31,7 @@ SELECT id_pedido, nome_cliente, (quantidade * preço) AS total
 FROM resumo_pedido;
 ```
 
-### 3. Atualização da View ´resumo_pedido` com o campo `total`
+### 3. Atualização da View `resumo_pedido` com o campo `total`
 ```
 DROP VIEW resumo_pedido;
 
